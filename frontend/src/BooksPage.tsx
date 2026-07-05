@@ -298,7 +298,7 @@ function BooksPage() {
         <Button size='large' className='rounded-none absolute'>
           <Link to={`/`}>⬅️ Dashboard</Link>
         </Button>
-        <h1 className='text-center font-bold text-5xl'>MANAGING BOOKS</h1>
+        <h1 className='text-center font-bold text-5xl'>MANAGE BOOK by Neshrutha</h1>
       </header>
       <main className='py-4 px-4 space-y-6'>
         <div className='flex justify-between'>
